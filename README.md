@@ -1,7 +1,7 @@
 main
 ========================
 
-[![Build Status](https://travis-ci.org/unius1004/test.png)](https://travis-ci.org/unius1004/test)
+[![Build Status](https://travis-ci.org/unius1004/test.svg?branch=master)](https://travis-ci.org/unius1004/test)
 
 C++ STL variant of https://code.google.com/p/google-diff-match-patch.
 
