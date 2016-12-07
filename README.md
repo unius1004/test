@@ -12,7 +12,7 @@ The STL Port is header only and works with std::wstring and std::string.
 
 Compile and run the test cases:
 
-    g++ main.cpp -o main && ./
+    g++ main.cpp -o main && ./main
 
 Or use CMake ...
 
