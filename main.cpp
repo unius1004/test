@@ -1,6 +1,7 @@
 #include "lib/diff-match-patch-cpp-stl/diff_match_patch.h"
 #include <string>
 #include <iostream>
+#include "stdio.h"
 
 using namespace std;
 int main(int argc, char **argv) {
