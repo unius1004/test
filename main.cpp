@@ -4,6 +4,7 @@
 
 using namespace std;
 int main(int argc, char **argv) {
+  printf("test!!!\n");
   diff_match_patch<wstring> dmp;
   wstring str1 = L"First string in diff";
   wstring str2 = L"Second string in diff";
